@@ -5,7 +5,7 @@
 """
 Nanpy library
 """
-__version__ = '0.9.6'
+__version__ = '0.9.7'
 __author__ = 'Andrea Stagi'
 __license__ = 'MIT'
 
@@ -25,6 +25,7 @@ from nanpy.arduinoapi import ArduinoApi
 from nanpy.eeprom import EEPROM
 
 from nanpy.TLC5947 import TLC5947
+from nanpy.MCP4725 import MCP4725
 
 # GW-Robotics Modules
 from nanpy.ultrasonic import Ultrasonic

@@ -24,7 +24,7 @@ classifiers = [
 ]
 
 setup(name="nanpy",
-      version="0.9.6",
+      version="0.9.7",
       description="Use your Arduino board with Python",
       long_description=read('README.rst'),
       license="MIT",
