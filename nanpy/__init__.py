@@ -26,6 +26,7 @@ from nanpy.eeprom import EEPROM
 
 from nanpy.TLC5947 import TLC5947
 from nanpy.MCP4725 import MCP4725
+from nanpy.TMP007 import TMP007
 from nanpy.mems import Mems
 
 # GW-Robotics Modules
